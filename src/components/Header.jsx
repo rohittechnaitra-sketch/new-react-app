@@ -12,9 +12,9 @@ function Header() {
         <nav style={styles.nav}>
           <Link to="/" style={styles.link}>Home</Link>
           <Link to="/about" style={styles.link}>About</Link>
-          <Link to="/blog" style={styles.link}>Blog cccc</Link>
+          <Link to="/blog" style={styles.link}>Blog</Link>
         </nav>
-
+   
         {/* CTA Button
         <button style={styles.button}>Contact</button> */}
 
